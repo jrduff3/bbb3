@@ -1,9 +1,0 @@
-{
-    "projectName": "BBB3",
-    "host":"https://jira.hkm.solutions",
-    "protocol":"https",
-    "port": default:8443,
-    "version": default:2,
-    "verbose": default:false,
-    "strictSSL": default:true
-}
