@@ -5,3 +5,4 @@ demo a smart commit
 new line 2
 test 1234
 test
+Test remote branch merge issue linking
