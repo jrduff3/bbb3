@@ -2,4 +2,3 @@ Here is some code.....
 add feature 5
 multiple stories
 demo a smart commit
-new line 2
